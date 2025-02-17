@@ -1,3 +1,10 @@
+## Repositorio en GitHub
+
+https://github.com/FdyMain/selenium-po-cucumber-ia.git
+
+## 📂 Estructura del Proyecto
+
+```bash
 selenium-po-cucumber/
 │── src/
 │   ├── main/
